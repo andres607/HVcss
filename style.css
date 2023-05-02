@@ -86,6 +86,14 @@ body
     padding-top: 40px;
 }
 
+.title
+{
+   color: #fff;
+   text-transform: uppercase;
+   font-weight: 600;
+   letter-spacing: 1px;
+   margin-bottom: 20px; 
+}
 
 .contactInfo ul
 {
@@ -112,6 +120,29 @@ body
 {
     color: #fff;
     font-weight: 300;
+}
+
+.contactInfo.education li
+{
+    margin-bottom: 15px;
+}
+
+.contactInfo.education h5
+{
+    color: #03a9f4;
+    font-weight: 500;
+}
+
+.contactInfo.education h4
+{
+    color: #fff;
+    font-weight: 500;
+}
+
+.contactInfo.education h4
+{
+    color: #fff;
+    font-weight: 500;
 }
 
 
